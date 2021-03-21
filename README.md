@@ -2,4 +2,4 @@
 
 # Gráficos
 
-[imagem1](Gráfico1.png)
+![imagem1](Grafico1.png)
