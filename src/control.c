@@ -73,7 +73,6 @@ void temperature_handler()
 		}
 		else if (should_log == 1)
 		{
-			// Write data only after 2 seconds / 2 interactions
 			write_data(data);
 			should_log = 0;
 		}
